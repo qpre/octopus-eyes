@@ -1,16 +1,12 @@
-Name: Eyes API
-Version: 0.1
-Synopsis: A library about Foo and Bar.
-Authors: Me <me@myhost.com>
-License: LGPL with OCaml linking exception
-
-Description: FooBar allows to combine foo and bar efficiently. It also allows to interface with baz.
-Homepage: http://foobar.org
-
 OASISFormat: 0.4
+Name:        OctopusEyesAPI
+Version:     0.0.1
+Synopsis:    ''
+Authors:     Quentin PRE
 BuildTools: ocamlbuild
+License: LGPL with OCaml linking exception
 Plugins: META (0.4), DevFiles (0.4)
 
 Executable "eyes-api"
-  Path: src
-  MainIs: main.ml
+  Path:       src
+  MainIs:     main.ml

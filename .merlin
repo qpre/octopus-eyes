@@ -1,8 +1,0 @@
-
-B _build_byte/OctopusEyes/publicInnerModules
-B _build_byte/OctopusEyes/privateInnerModules
-B _build_byte/OctopusEyes
-
-FLG -w -30 -w -40 -open OctopusEyes
-SUFFIX .re .rei
-
